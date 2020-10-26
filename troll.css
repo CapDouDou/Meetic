@@ -1,0 +1,24 @@
+body
+{
+	background-image: url("image/troll.jpg");
+	background-color: black;
+}
+.top a
+{
+	cursor: pointer;
+	margin-left:10px; 
+	float: right;
+	border:solid 1px green;
+	padding:6px 10px 6px 10px;
+	border-radius:8px;
+	font:bold 13px Arial;
+	color:green;
+	text-decoration: none;
+
+}
+.logo
+{
+	position: relative;
+	bottom: 30px;
+	width: 200px;
+}
